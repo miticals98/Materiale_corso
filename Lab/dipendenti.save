@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "nome": "Ugo",
+    "cognome": "Fantozzi",
+    "sesso": "M",
+    "luogoDiNascita": "Milazzo",
+    "dataDiNascita": "1998-06-01",
+    "codiceFiscale": "NPLMTT98H11F206A",
+    "ruoloAziendale": "Programmatore",
+    "stipendio": 1200,
+    "titoloDiStudio": "Laurea"
+  },
+  {
+    "id": 1,
+    "nome": "Gianni",
+    "cognome": "Fantozzi",
+    "sesso": "M",
+    "luogoDiNascita": "Milazzo",
+    "dataDiNascita": "1998-06-01",
+    "codiceFiscale": "NPLMTT98H11F206A",
+    "ruoloAziendale": "Programmatore",
+    "stipendio": 1200,
+    "titoloDiStudio": "Laurea"
+  },
+  {
+    "id": 2,
+    "nome": "Gianni",
+    "cognome": "Fantozzi",
+    "sesso": "M",
+    "luogoDiNascita": "Milazzo",
+    "dataDiNascita": "1998-06-01",
+    "codiceFiscale": "NPLMTT98H11F206A",
+    "ruoloAziendale": "Programmatore",
+    "stipendio": 1200,
+    "titoloDiStudio": "Laurea"
+  },
+  {
+    "id": 3,
+    "nome": "Gianni",
+    "cognome": "Fantozzi",
+    "sesso": "M",
+    "luogoDiNascita": "Milazzo",
+    "dataDiNascita": "1998-06-01",
+    "codiceFiscale": "NPLMTT98H11F206A",
+    "ruoloAziendale": "Programmatore",
+    "stipendio": 1200,
+    "titoloDiStudio": "Laurea"
+  },
+  {
+    "id": 4,
+    "nome": "Gianni",
+    "cognome": "Fantozzi",
+    "sesso": "M",
+    "luogoDiNascita": "Milazzo",
+    "dataDiNascita": "1998-06-01",
+    "codiceFiscale": "NPLMTT98H11F206A",
+    "ruoloAziendale": "Programmatore",
+    "stipendio": 1200,
+    "titoloDiStudio": "Laurea"
+  },
+  {
+    "id": 5,
+    "nome": "Gianni",
+    "cognome": "Fantozzi",
+    "sesso": "M",
+    "luogoDiNascita": "Milazzo",
+    "dataDiNascita": "1998-06-01",
+    "codiceFiscale": "NPLMTT98H11F206A",
+    "ruoloAziendale": "Programmatore",
+    "stipendio": 1200,
+    "titoloDiStudio": "Laurea"
+  },
+  {
+    "id": 6,
+    "nome": "Gianni",
+    "cognome": "Fantozzi",
+    "sesso": "M",
+    "luogoDiNascita": "Milazzo",
+    "dataDiNascita": "1998-06-01",
+    "codiceFiscale": "NPLMTT98H11F206A",
+    "ruoloAziendale": "Programmatore",
+    "stipendio": 1200,
+    "titoloDiStudio": "Laurea"
+  },
+  {
+    "id": 7,
+    "nome": "Gianni",
+    "cognome": "Fantozzi",
+    "sesso": "M",
+    "luogoDiNascita": "Milazzo",
+    "dataDiNascita": "1998-06-01",
+    "codiceFiscale": "NPLMTT98H11F206A",
+    "ruoloAziendale": "Programmatore",
+    "stipendio": 1200,
+    "titoloDiStudio": "Laurea"
+  }
+]
